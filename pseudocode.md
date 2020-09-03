@@ -28,7 +28,6 @@ Patron
 		Set up Variables
 			directionalArray array
 			buttonPress	bool
-			changeButtonPress bool
 
 	takeChange
 	provideMoney
@@ -84,7 +83,7 @@ Intake
 	INIT Set Up Variables
 		recievedMoney
 
-	changeRequested(changeButtonPress)
+	changeRequested()
 		change button pressed
 
 	changeDispense()
