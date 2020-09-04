@@ -1,20 +1,20 @@
-Claw machine:
-Enter coin
-Joystick
-Timer
-Button
+///Claw machine:
+	Enter coin
+	Joystick
+	Timer
+	Button
 
-Functionality (use case) - As a patron I want to pay to play at a chance to win a stuffed animal.
+///Functionality (use case) - As a patron I want to pay to play at a chance to win a stuffed animal.
 
-Patron Enters Money
-Timer Starts
-Claw Goes to Start Position
-Patron uses joystick to postion claw
-Patron pushes button to drop claw and open claw
-When drop down timer ends claw closes
-Claw goes lifts back up
-Claw goes to start
-Claw opens
+	Patron Enters Money
+	Timer Starts
+	Claw Goes to Start Position
+	Patron uses joystick to postion claw
+	Patron pushes button to drop claw and open claw
+	When drop down timer ends claw closes
+	Claw goes lifts back up
+	Claw goes to start
+	Claw opens
 
 ```
 START
