@@ -1,4 +1,4 @@
-,,,
+'''
 START
 
 //Begin Program
@@ -129,4 +129,4 @@ Display
 	changeDisplay(time)
 		changes display to correct time
 		
-,,,
+'''
