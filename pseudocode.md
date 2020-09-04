@@ -1,10 +1,11 @@
-///Claw machine:
+Claw machine:
+
 	Enter coin
 	Joystick
 	Timer
 	Button
 
-///Functionality (use case) - As a patron I want to pay to play at a chance to win a stuffed animal.
+Functionality (use case) - As a patron I want to pay to play at a chance to win a stuffed animal.
 
 	Patron Enters Money
 	Timer Starts
